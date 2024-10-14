@@ -18,4 +18,4 @@ pip install -r requirements.txt
 ```
 
 ## Research Method
-![Alt Text](IMG/Research Method.jpg)
+![CMSI_Research Method](https://github.com/jiatongoo/CMSI_CarbonMarketSentimentIndex/blob/main/IMG/Research%20Method.jpg)
